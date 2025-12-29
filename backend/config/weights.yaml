@@ -1,0 +1,10 @@
+# Weight configuration for profitability score calculation
+# All weights must sum to 1.0
+# These weights are developer-defined based on empirical importance
+# Users cannot adjust these weights to maintain data-driven objectivity
+
+crime_weight: 0.25
+infrastructure_weight: 0.25
+demographic_weight: 0.25
+sentiment_weight: 0.25
+
