@@ -1,6 +1,6 @@
 # Housefly: Buffalo Profitability Scoring Engine
 
-A resume-quality real estate web application that displays profitability scores for each of Buffalo's 35 official planning neighborhoods. The score is generated from real-world public datasets using a weighted algorithm incorporating crime, infrastructure, demographics, and sentiment.
+A real estate web application that displays profitability scores for each of Buffalo's 35 official planning neighborhoods. The score is generated from real-world public datasets using a weighted algorithm incorporating crime, infrastructure, demographics, and sentiment.
 
 ## Features
 
