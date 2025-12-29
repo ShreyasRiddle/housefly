@@ -1,0 +1,40 @@
+.time-slider {
+  margin-bottom: 2rem;
+}
+
+.time-slider-label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: #333;
+  font-size: 0.9rem;
+}
+
+.time-slider-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.time-slider-button {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border: 2px solid #ddd;
+  background: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+  color: #666;
+}
+
+.time-slider-button:hover {
+  border-color: #667eea;
+  color: #667eea;
+}
+
+.time-slider-button.active {
+  background: #667eea;
+  border-color: #667eea;
+  color: white;
+}
+

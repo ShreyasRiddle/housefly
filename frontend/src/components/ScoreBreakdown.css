@@ -1,0 +1,41 @@
+.score-breakdown {
+  margin-top: 1rem;
+}
+
+.score-breakdown-title {
+  margin: 0 0 1rem 0;
+  font-size: 1.2rem;
+  color: #333;
+  font-weight: 600;
+}
+
+.score-breakdown-legend {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.legend-color {
+  width: 16px;
+  height: 16px;
+  border-radius: 3px;
+}
+
+.legend-label {
+  color: #666;
+  flex: 1;
+}
+
+.legend-value {
+  font-weight: 600;
+  color: #333;
+}
+
